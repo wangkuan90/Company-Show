@@ -1,0 +1,19 @@
+{
+  "name": "Company-Show",
+  "version": "1.0.0",
+  "description": "公司网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wangkuan90/Company-Show.git"
+  },
+  "author": "xl wk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangkuan90/Company-Show/issues"
+  },
+  "homepage": "https://github.com/wangkuan90/Company-Show"
+}

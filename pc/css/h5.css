@@ -1,0 +1,96 @@
+@charset "UTF-8";
+/* 导入颜色变量 */
+/* 导入基本样式 */
+* {
+  margin: 0;
+  padding: 0; }
+
+* html body {
+  overflow: visible; }
+
+body {
+  color: #000;
+  background: #FFF;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 12px;
+  text-align: center; }
+
+body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, td, img, div, tr {
+  margin: 0 auto;
+  padding: 0; }
+
+input, select {
+  font-size: 12px;
+  vertical-align: middle; }
+
+body div {
+  text-align: left; }
+
+textarea, input {
+  word-wrap: break-word;
+  word-break: break-all;
+  padding: 0px; }
+
+li {
+  list-style-type: none; }
+
+img {
+  border: 0 none; }
+
+a {
+  color: #000;
+  text-decoration: none; }
+
+a:hover {
+  color: #628828; }
+
+h1 {
+  font-size: 24px; }
+
+h2 {
+  font-size: 20px; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  font-size: 12px; }
+
+.pointer {
+  cursor: pointer; }
+
+.NoBorder {
+  border: 0 none; }
+
+.NoPadding {
+  padding: 0; }
+
+.tl {
+  text-align: left; }
+
+.tc {
+  text-align: center; }
+
+.tr {
+  text-align: right; }
+
+/* 导入动画css */
+/* 导入全部顶部底部css */
+header {
+  margin-bottom: 10px; }
+  header section {
+    padding: 10px;
+    font-size: 14px; }
+    header section span {
+      background-color: red;
+      padding: 5px 10px;
+      margin: 0 15px;
+      cursor: pointer; }
+
+/* 导入主页css */
